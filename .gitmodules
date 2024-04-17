@@ -1,0 +1,3 @@
+[submodule "rookie"]
+	path = rookie
+	url = git@github.com:Param-veered/rookie.git
